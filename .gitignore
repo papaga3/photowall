@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#database
-/src/database
+# database
+/src/database/*
